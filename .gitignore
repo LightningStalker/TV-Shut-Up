@@ -1,0 +1,10 @@
+.git
+*.hex
+*.o
+*.d
+*.lst
+*.eep
+*.map
+*.elf
+*.lss
+*.sym
