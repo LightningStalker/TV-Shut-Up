@@ -3,6 +3,7 @@
 #include "main.h"
 
 // Samsung code_na000 taken from OEM remote by photodiode/oscilloscope
+// The Lightning Stalker 2017
 // table of MUTE codes
 
 
