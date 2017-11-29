@@ -7,6 +7,7 @@ and it will solve this problem!
 
 ## Status
 Initial commit and one code for some Samsung TVs
+
 Other TVs may be added by following the design notes at [adafruit](https://learn.adafruit.com/tv-b-gone-kit?view=all#design-notes)
 
 You may need to modify `DELAY_CNT` in `main.h` for the correct timings with your version of avr-gcc.
